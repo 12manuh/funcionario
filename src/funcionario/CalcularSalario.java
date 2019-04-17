@@ -1,0 +1,7 @@
+
+package funcionario;
+
+
+class CalcularSalario {
+    
+}
